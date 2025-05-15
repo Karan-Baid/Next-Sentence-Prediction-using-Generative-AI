@@ -12,7 +12,7 @@ A simple and interactive Streamlit web app that uses Hugging Face Transformers (
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/genai-next-sentence.git
+git clone https://github.com/Karan-Baid/Next-Sentence-Prediction-using-Generative-AI.git
 cd genai-next-sentence
 pip install -r requirements.txt
 streamlit run app.py
